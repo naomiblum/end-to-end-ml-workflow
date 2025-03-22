@@ -20,8 +20,8 @@ A visual tracker of progress as you build your machine learning pipeline.
 ---
 
 ## 🧠 Modeling
-- [x] Train baseline model (Logistic Regression)
-- [ ] Try additional models (Random Forest, XGBoost)
+- [x] Train baseline model 
+- [ ] Try additional models 
 - [ ] Evaluate using accuracy, F1-score, etc.
 
 ---
