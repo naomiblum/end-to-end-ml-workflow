@@ -38,7 +38,7 @@ Predict whether a startup will succeed or fail based on features like:
 - MLflow
 - Google Colab
 - YAML
-- (Optional: Streamlit / Docker / GitHub Actions)
+- CI/CD (Optional: Streamlit / Docker / GitHub Actions)
 
 ---
 
