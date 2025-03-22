@@ -103,6 +103,8 @@ Then visit `http://localhost:5000` to explore results.
 
 ---
 
+📋 [Project Checklist](./project_checklist_naomi.md) — Track my full ML workflow progress
+
 ## 👩‍💻 Author
 
 Created by **Naomi Blum**  
