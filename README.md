@@ -1,9 +1,4 @@
 
-# 🚀 end-to-end-ml-workflow
-
-An end-to-end machine learning workflow to predict startup success — covering everything from data preprocessing and model training to experiment tracking using MLflow. This project is designed to demonstrate how real-world ML pipelines are built, tracked, and managed.
-
----
 
 ## 📌 Project Overview
 
@@ -14,6 +9,8 @@ This project simulates a real-world startup risk assessment model. It includes:
 - Training classification models (Logistic Regression baseline)
 - Logging experiments with **MLflow**
 - Saving models and results
+- (Future) CI/CD setup for automatic retraining & deployment
+=======
 - CI/CD setup for automatic retraining & deployment
 
 ---
@@ -109,6 +106,7 @@ Then visit `http://localhost:5000` to explore results.
 Created by **Naomi Blum**  
 GitHub: [github.com/NaomiBlum](https://github.com/NaomiBlum)  
 LinkedIn: [linkedin.com/in/naomiblum](https://linkedin.com/in/naomiblum)
+=======
 
 ## 🧠 Business Problem
 
