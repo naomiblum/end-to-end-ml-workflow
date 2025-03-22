@@ -14,7 +14,7 @@ This project simulates a real-world startup risk assessment model. It includes:
 - Training classification models (Logistic Regression baseline)
 - Logging experiments with **MLflow**
 - Saving models and results
-- (Future) CI/CD setup for automatic retraining & deployment
+- CI/CD setup for automatic retraining & deployment
 
 ---
 
