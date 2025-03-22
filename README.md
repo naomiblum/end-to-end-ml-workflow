@@ -1,4 +1,5 @@
- 🚀 end-to-end-ml-workflow
+
+# 🚀 end-to-end-ml-workflow
 
 An end-to-end machine learning workflow to predict startup success — covering everything from data preprocessing and model training to experiment tracking using MLflow. This project is designed to demonstrate how real-world ML pipelines are built, tracked, and managed.
 
@@ -103,10 +104,26 @@ Then visit `http://localhost:5000` to explore results.
 
 ---
 
-📋 [Project Checklist](./project_checklist_naomi.md) — Track my full ML workflow progress
-
 ## 👩‍💻 Author
 
 Created by **Naomi Blum**  
 GitHub: [github.com/NaomiBlum](https://github.com/NaomiBlum)  
 LinkedIn: [linkedin.com/in/naomiblum](https://linkedin.com/in/naomiblum)
+
+## 🧠 Business Problem
+
+Early-stage startups face high failure rates, and investors often rely on gut feeling or incomplete data.  
+This project aims to build a predictive ML model that estimates the probability of success or failure for startups,  
+based on business attributes such as:
+
+- Total funding
+- Number of founders
+- Industry sector
+- Location
+- Startup age
+
+### 🎯 Business Value
+
+- Help investors make smarter, data-driven funding decisions  
+- Support accelerators in evaluating applicants  
+- Enable founders to benchmark their own startup’s risk profile
